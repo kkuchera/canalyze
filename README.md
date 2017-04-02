@@ -10,8 +10,9 @@ You also need a USB 2.0 type A male to type B male cable and an OBD to DB9 cable
 
 ## Getting started
 Don't know where to start? Check out
-* [Open Garages videos](https://www.youtube.com/playlist?list=PLBqtCp9s_lnEOtf6I1DDMEANIzJJLXRhe)
+* [Open Garages' videos](https://www.youtube.com/playlist?list=PLBqtCp9s_lnEOtf6I1DDMEANIzJJLXRhe)
 * [Car Hacker's Handbook](http://opengarages.org/handbook/)
+
 or subscribe to the Open Garages' [mailing list](https://groups.google.com/forum/?fromgroups#!forum/open-garages).
 
 ## Stay updated
