@@ -1,7 +1,7 @@
 ## About
 CANalyze is an open source, native CAN interface for Linux that can be built entirely using open source tools. It enables you to monitor and transmit frames on any CAN network. It should be used with [can-utils](https://github.com/linux-can/can-utils). Start hacking cars by connecting to the OBD-II port.
 
-<p align="center"><img src="/assets/images/canalyze1.jpg" width="250"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/kkuchera/canalyze/master/assets/images/canalyze1.jpg" width="250"></p>
 
 ## Installation
 1. [build](https://github.com/kkuchera/canalyze-fw) a CANalyze
