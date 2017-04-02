@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# CANalyze
+Native CAN interface for Linux.
 
-You can use the [editor on GitHub](https://github.com/kkuchera/canalyze/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## About
+CANalyze is an open source, native CAN interface for Linux that can be built entirely using open source tools. It enables you to monitor and transmit frames on any CAN network. It should be used with [can-utils](https://github.com/linux-can/can-utils). Start hacking cars by connecting to the OBD-II port.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Installation
+1. [build](https://github.com/kkuchera/canalyze-fw) a CANalyze
+2. `$ sudo apt-get install can-utils`
+3. start hacking
 
-### Markdown
+You also need a USB 2.0 type A male to type B male cable and an OBD to DB9 cable.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Getting started
+Don't know where to start? Check out
+* [Open Garages videos](https://www.youtube.com/playlist?list=PLBqtCp9s_lnEOtf6I1DDMEANIzJJLXRhe)
+* [Car Hacker's Handbook](http://opengarages.org/handbook/)
+or subscribe to the Open Garages' [mailing list](https://groups.google.com/forum/?fromgroups#!forum/open-garages).
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kkuchera/canalyze/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Stay updated
+<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="//github.us15.list-manage.com/subscribe/post?u=f2350f160b0c60f0928ebc361&amp;id=476bdf8d8e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_f2350f160b0c60f0928ebc361_476bdf8d8e" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+<!--End mc_embed_signup-->
