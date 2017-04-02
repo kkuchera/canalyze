@@ -15,6 +15,10 @@ Don't know where to start? Check out
 
 or subscribe to the Open Garages' [mailing list](https://groups.google.com/forum/?fromgroups#!forum/open-garages).
 
+## Sources
+* [firmware](https://github.com/kkuchera/canalyze-fw)
+* [hardware](https://github.com/kkuchera/canalyze-hw)
+
 ## Stay updated
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
