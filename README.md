@@ -36,6 +36,12 @@ Don't know what's next? Check out
 
 or subscribe to the Open Garages' [mailing list](https://groups.google.com/forum/?fromgroups#!forum/open-garages).
 
+## LED indicators
+* green blink - interface down
+* green steady - interface up
+* red blink - bus error
+* red steady - firmware error
+
 ## Sources
 * [firmware](https://github.com/kkuchera/canalyze-fw)
 * [hardware](https://github.com/kkuchera/canalyze-hw)
