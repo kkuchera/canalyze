@@ -8,7 +8,7 @@ CANalyze is an open source, native CAN interface for Linux that can be built ent
 2. `$ sudo apt-get install can-utils`
 3. start hacking
 
-You also need a [USB 2.0 type A male to type B male cable](https://www.amazon.com/AmazonBasics-USB-2-0-Cable-Male/dp/B00NH11KIK/) and an OBD-II to DB9 cable. Both a [CiA DS102-2](http://mouser.com/ProductDetail/EasySync/OBD-M-DB9-F-ES/?qs=pLQRQR43dtrcAQQLCUAIxA%3D%3D) or [standard](https://www.sparkfun.com/products/10087) OBD-II cable will work.
+You also need a [USB 2.0 type A male to type B male cable](https://www.amazon.com/AmazonBasics-USB-2-0-Cable-Male/dp/B00NH11KIK/) and an OBD-II to DB9 cable. Both a [CiA DS102-2](http://mouser.com/ProductDetail/EasySync/OBD-M-DB9-F-ES/?qs=pLQRQR43dtrcAQQLCUAIxA%3D%3D) or [standard](https://www.sparkfun.com/products/10087) OBD-II cable will work. You can find more information about the device in the [user guide](userguide.md).
 
 ## Getting started
 Bring up CAN interface
