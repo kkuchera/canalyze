@@ -30,12 +30,13 @@ $ cansend can0 666#01020304
 
 ## More info
 Don't know what's next? Check out
+* [How to hack a car — a quick crash-course](https://medium.freecodecamp.com/hacking-cars-a-guide-tutorial-on-how-to-hack-a-car-5eafcfbbb7ec)
 * [Open Garages' videos](https://www.youtube.com/playlist?list=PLBqtCp9s_lnEOtf6I1DDMEANIzJJLXRhe)
 * [Car Hacker's Handbook](http://opengarages.org/handbook/)
 * [Car hacking papers](http://illmatics.com/carhacking.html)
 
 or subscribe to the Open Garages' [mailing list](https://groups.google.com/forum/?fromgroups#!forum/open-garages).
 
-## Sources
+## Source code
 * [firmware](https://github.com/kkuchera/canalyze-fw)
 * [hardware](https://github.com/kkuchera/canalyze-hw)
